@@ -1,4 +1,4 @@
-![title](LTFS.jpg)
+![title](./LTFS.png)
 
 # LTFS Data Science FinHack ( ML Hackathon)
 
